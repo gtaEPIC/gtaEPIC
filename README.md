@@ -2,7 +2,7 @@
 #### Oh! Hi there! Allow me to introduce myself.
 
 
-- 🖥 Online, I go by the name `gtaEPIC`
+- 🖥 Online, I go by the name `gtaEPIC` (go trains are EPIC)
 - 😀 In public, I'm known as `Johnathan`
 - 📕 I'm a student at Centennial College
 - 📚 I'm studying `Game - Programming`
@@ -24,4 +24,6 @@ Well there isn't a whole lot more to say, but you may have noticed I didn't ment
 That's because I am Transgender, just not out publicly yet. 
 So, I'm still using he/him pronouns, but I am also comfortable with they/them pronouns.
 My planned name is `Jasmine` however, I'll still be `gtaEPIC` online.
+
+If you're a future recuiter of mine, hello again! I hope the above information doesn't cause any problems
 -->
